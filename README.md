@@ -64,6 +64,9 @@ The metric used for evaluating the performance of the classification model would
 The texts in the test data are further randomly divided into Public (40%) and Private (60%) data. Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
 
 # Leaderboard
+
+### BERT score with local CV score of 0.54 was submitted as final solution
+
 <ul>
 <li>Public LB : 41th/735 Rank</li>
 <li>Private LB : 118th/735 Rank</li>
@@ -75,6 +78,7 @@ The texts in the test data are further randomly divided into Public (40%) and Pr
 <li>Implementation of BERT , ELMO and Glove</li>
 <li>Best Pre-processing Steps , specially in Glove (Emoji and special characters)</li>
 <li>Multi class classification in NLP</li>
+
 </ul>
 
 
